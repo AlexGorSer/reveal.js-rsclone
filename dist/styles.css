@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+.box{
+    align-self: center;
+    margin-left: -2%;
+}
+.li{
+    padding: 10px;
+    margin-left: 10%;
+    font-size: 32px;
+    color: palegoldenrod;
+}
+.in {
+    color: #1dc9c1;
+}
